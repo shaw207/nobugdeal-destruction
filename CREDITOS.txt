@@ -1,0 +1,8 @@
+No Bug Deal · Destrucción de paredes
+
+Sistemas de destrucción de paredes: Chengxun Wu.
+Los modelos y materiales proceden de la escena de pruebas de No Bug Deal
+y se utilizan con permiso del equipo.
+
+No Bug Deal · Destrucción de paredes was made with Unity®. Unity is a trademark or registered trademark of Unity Technologies
+Copyright © 2005-2026 Unity Technologies. All rights reserved.
