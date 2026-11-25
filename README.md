@@ -3,7 +3,7 @@
 Una escena para perforar una pared en tiempo real y otra para derribar las piezas de una pared prefabricada. [Descargar para Windows](https://github.com/shaw207/nobugdeal-destruction/releases/tag/v1.0.0)
 
 <details name="paredes" open>
-<summary><strong>F1 · Pared perforable</strong> · 10 s</summary>
+<summary><strong>F1 · Pared perforable</strong></summary>
 
 Tres cortes circulares se unen. Al perder el último apoyo, una sección cae con su abertura intacta.
 
@@ -14,7 +14,7 @@ Clic izquierdo para un círculo, derecho para un cuadrado y central para un cort
 </details>
 
 <details name="paredes">
-<summary><strong>F2 · Pared prefabricada</strong> · 5,2 s</summary>
+<summary><strong>F2 · Pared prefabricada</strong></summary>
 
 La pared tiene 18 piezas. El clic izquierdo suelta la pieza tocada y puede desprender otras a un metro o menos del impacto. El derecho amplía el radio a 5,4 m. Cada impacto suelta hasta seis piezas.
 
